@@ -1,0 +1,27 @@
+_repo: The-Botanist-s-Companion-Volume-II--13-Or-an-Introduction-to-the-Knowledge-of-Practical-Botan__12363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salisbury, William
+    alias: Salisbury, W. (William)
+    deathdate: 1823
+    gutenberg_agent_id: '4337'
+    url: http://www.gutenberg.org/2009/agents/4337
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Great Britain'
+- !lcc 'QK'
+- GITenberg
+title: "The Botanist's Companion, Volume II\r\nOr an Introduction to the Knowledge\
+  \ of Practical Botany, and the Uses of Plants. Either Growing Wild in Great Britain,\
+  \ or Cultivated for the Puroses of Agriculture, Medicine, Rural Oeconomy, or the\
+  \ Arts"
+url: http://www.gutenberg.org/ebooks/12363
